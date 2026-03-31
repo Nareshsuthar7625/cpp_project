@@ -1,5 +1,3 @@
-# cpp_project
-name : naresh suthar 
+Its simple C++ game.
 
-
-reg no : 24bai10260
+uning Windows api (windows.h)
